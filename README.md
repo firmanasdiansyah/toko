@@ -1,3 +1,10 @@
+Pastikan PHP versi 8.0.0 keatas
+edit php.ini (menghilangkan tanda ; sebelum intl)
+instal composer
+copy project ke htdocs
+import database di folder DATABASE
+Buka project di VSCode lalu buka terminal ketik PHP spark serve lalu buka http://localhost:8080/ di browser
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
